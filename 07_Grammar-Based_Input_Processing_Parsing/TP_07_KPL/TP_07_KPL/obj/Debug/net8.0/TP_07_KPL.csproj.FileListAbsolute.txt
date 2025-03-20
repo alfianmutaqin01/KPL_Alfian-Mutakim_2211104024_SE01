@@ -1,0 +1,15 @@
+D:\Kuliah\Semester 6\Konstruksi Perangkat Lunak\Praktikum KPL\KPL_Alfian-Mutakim_2211104024_SE01\07_Grammar-Based_Input_Processing_Parsing\TP_07_KPL\TP_07_KPL\bin\Debug\net8.0\TP_07_KPL.exe
+D:\Kuliah\Semester 6\Konstruksi Perangkat Lunak\Praktikum KPL\KPL_Alfian-Mutakim_2211104024_SE01\07_Grammar-Based_Input_Processing_Parsing\TP_07_KPL\TP_07_KPL\bin\Debug\net8.0\TP_07_KPL.deps.json
+D:\Kuliah\Semester 6\Konstruksi Perangkat Lunak\Praktikum KPL\KPL_Alfian-Mutakim_2211104024_SE01\07_Grammar-Based_Input_Processing_Parsing\TP_07_KPL\TP_07_KPL\bin\Debug\net8.0\TP_07_KPL.runtimeconfig.json
+D:\Kuliah\Semester 6\Konstruksi Perangkat Lunak\Praktikum KPL\KPL_Alfian-Mutakim_2211104024_SE01\07_Grammar-Based_Input_Processing_Parsing\TP_07_KPL\TP_07_KPL\bin\Debug\net8.0\TP_07_KPL.dll
+D:\Kuliah\Semester 6\Konstruksi Perangkat Lunak\Praktikum KPL\KPL_Alfian-Mutakim_2211104024_SE01\07_Grammar-Based_Input_Processing_Parsing\TP_07_KPL\TP_07_KPL\bin\Debug\net8.0\TP_07_KPL.pdb
+D:\Kuliah\Semester 6\Konstruksi Perangkat Lunak\Praktikum KPL\KPL_Alfian-Mutakim_2211104024_SE01\07_Grammar-Based_Input_Processing_Parsing\TP_07_KPL\TP_07_KPL\obj\Debug\net8.0\TP_07_KPL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Semester 6\Konstruksi Perangkat Lunak\Praktikum KPL\KPL_Alfian-Mutakim_2211104024_SE01\07_Grammar-Based_Input_Processing_Parsing\TP_07_KPL\TP_07_KPL\obj\Debug\net8.0\TP_07_KPL.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 6\Konstruksi Perangkat Lunak\Praktikum KPL\KPL_Alfian-Mutakim_2211104024_SE01\07_Grammar-Based_Input_Processing_Parsing\TP_07_KPL\TP_07_KPL\obj\Debug\net8.0\TP_07_KPL.AssemblyInfo.cs
+D:\Kuliah\Semester 6\Konstruksi Perangkat Lunak\Praktikum KPL\KPL_Alfian-Mutakim_2211104024_SE01\07_Grammar-Based_Input_Processing_Parsing\TP_07_KPL\TP_07_KPL\obj\Debug\net8.0\TP_07_KPL.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 6\Konstruksi Perangkat Lunak\Praktikum KPL\KPL_Alfian-Mutakim_2211104024_SE01\07_Grammar-Based_Input_Processing_Parsing\TP_07_KPL\TP_07_KPL\obj\Debug\net8.0\TP_07_KPL.sourcelink.json
+D:\Kuliah\Semester 6\Konstruksi Perangkat Lunak\Praktikum KPL\KPL_Alfian-Mutakim_2211104024_SE01\07_Grammar-Based_Input_Processing_Parsing\TP_07_KPL\TP_07_KPL\obj\Debug\net8.0\TP_07_KPL.dll
+D:\Kuliah\Semester 6\Konstruksi Perangkat Lunak\Praktikum KPL\KPL_Alfian-Mutakim_2211104024_SE01\07_Grammar-Based_Input_Processing_Parsing\TP_07_KPL\TP_07_KPL\obj\Debug\net8.0\refint\TP_07_KPL.dll
+D:\Kuliah\Semester 6\Konstruksi Perangkat Lunak\Praktikum KPL\KPL_Alfian-Mutakim_2211104024_SE01\07_Grammar-Based_Input_Processing_Parsing\TP_07_KPL\TP_07_KPL\obj\Debug\net8.0\TP_07_KPL.pdb
+D:\Kuliah\Semester 6\Konstruksi Perangkat Lunak\Praktikum KPL\KPL_Alfian-Mutakim_2211104024_SE01\07_Grammar-Based_Input_Processing_Parsing\TP_07_KPL\TP_07_KPL\obj\Debug\net8.0\TP_07_KPL.genruntimeconfig.cache
+D:\Kuliah\Semester 6\Konstruksi Perangkat Lunak\Praktikum KPL\KPL_Alfian-Mutakim_2211104024_SE01\07_Grammar-Based_Input_Processing_Parsing\TP_07_KPL\TP_07_KPL\obj\Debug\net8.0\ref\TP_07_KPL.dll
