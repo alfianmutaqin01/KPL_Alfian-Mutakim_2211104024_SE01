@@ -1,0 +1,6 @@
+@TP_9_swager_2211104024_HostAddress = http://localhost:5168
+
+GET {{TP_9_swager_2211104024_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

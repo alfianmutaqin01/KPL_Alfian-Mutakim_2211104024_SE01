@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TP_9_swager_2211104024.props" />
+</Project>
